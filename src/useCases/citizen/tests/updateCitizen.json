@@ -1,0 +1,14 @@
+{
+    "status": "update",
+    "id": "",
+    "name" : "",
+    "lastname" : "",
+    "identification_number" : "",
+    "contact_information" : {
+        "email" : "",
+        "cellphone" : ""
+    },
+    "address" : {
+        "zip_code" : ""
+    }
+}
