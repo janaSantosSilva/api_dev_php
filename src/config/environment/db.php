@@ -19,7 +19,7 @@ if( PRODUCTION_ENVIRONMENT === 'true' ) {
     define( "DATABASE_HOST", "localhost" );
     define( "DATABASE_PORT", "3306" );
     define( "DATABASE_USER", "root" );
-    define( "DATABASE_PASSWORD", ".panda123" );
+    define( "DATABASE_PASSWORD", "ASUDFHIASHDF" );
     define( "DATABASE_NAME", "api_dev" );
     define( "DATABASE_TYPE", "mysql" );
 
